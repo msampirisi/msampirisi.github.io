@@ -1,0 +1,29 @@
+.bg-hawaii {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/hawaii.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100vw 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.articulo {
+    min-height: 100vh;
+}
+
+.box-articulo {
+    max-width: 50vw;
+}
+
+.cardstyle {
+    width: fit-content;
+}
+
+.puntitos {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.btnver {
+    background-color: #96c93e;
+}
