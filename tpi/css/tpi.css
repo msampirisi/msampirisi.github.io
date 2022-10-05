@@ -1,5 +1,5 @@
 .bg-hawaii {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/hawaii.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hawaii.jpg);
     background-repeat: no-repeat;
     color: white;
     background-size: 100vw 100%;
